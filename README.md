@@ -20,7 +20,7 @@ To further your understanding of the concepts used in this project, we recommend
    - This playlist covers OpenPyXL in great detail, offering comprehensive tutorials on Excel file processing using Python.
 
 2. [Selenium with Python Tutorial by Tech With Tim](https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ)
-   - This series provides additional insights into using Selenium with Python, including advanced topics and best practices.
+   - This series provides insights into using Selenium with Python, including advanced topics and best practices.
 
 These playlists complement the materials in this repository and can help deepen your understanding of RPA and web automation techniques.
 
