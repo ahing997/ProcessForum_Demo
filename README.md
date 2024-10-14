@@ -14,7 +14,7 @@ This repository contains demo code and tutorial materials for the Process Forum 
 
 ## Additional Learning Resources
 
-To further your understanding of the concepts used in this project, we recommend the following YouTube playlists:
+To further your understanding of the concepts used in the presentation, we recommend the following YouTube playlists:
 
 1. [Python and Excel Programming With OpenPyXL by Codemy.com](https://www.youtube.com/watch?v=6QdeR15myIY&list=PLCC34OHNcOtrMWIf_MXWrCajQwp3lL27T)
    - This playlist covers OpenPyXL in great detail, offering comprehensive tutorials on Excel file processing using Python.
