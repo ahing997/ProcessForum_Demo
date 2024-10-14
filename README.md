@@ -1,4 +1,4 @@
-# ProcessForum_Demo
+# Process Forum demo - a RPA example
 
 ## Data Analytics in Action: From Concepts to Implementation
 
